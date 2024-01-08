@@ -1,6 +1,6 @@
 # duplicate files finding script
 
-This script is designed to find any duplicate files in a large batch.
+This script is designed quickly to find any duplicate files in a large batch.
 
 ## Table of Contents
 - [Usage](#Usage)
