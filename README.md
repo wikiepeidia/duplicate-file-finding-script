@@ -52,7 +52,11 @@ This script is designed quickly to find any duplicate files in a large batch.
 ### V1.4
 - Build 19 - Copilot - 8/1/2024
   - The ability to handle 1000+ files has been upgraded, as well as most bugs are gone.
-
+### V1.5
+- Build XX - Copilot - 8/1/2024
+  - Post message support, now has ability to whether move,copy or delete the duped files.
+  - However if a file has multiple dupes, then you might want to run a few times.
+    
 ## Beta Releases
 ### V1 Python Development
 - Build 1-3, Chat GPT, 8/1/2024
@@ -69,7 +73,9 @@ This script is designed quickly to find any duplicate files in a large batch.
 ### V1.3 Development
 - Build 12-17, ChatGPT + Copilot, 8/1/2024
   - Uses ChatGPT + Copilot to address issues in handling characters, but does not return any hash. Debug builds are 16-17.
-
+### V1.5 development
+- Build ,  Copilot, 8/1/2024
+  - get ability to do post-commands.(copy,move,delete)
 ## Notices
 - This script is safe to use.
 - **REMEMBER**: this script is not smart enough to detect files that might be different in codecs and others, e.g., 1.mp3, 2.ogg has the same content converted by some software or 2.mp3 (190kbps) and 3.mp3 (128kbps) or a text file that just has a space at the end...The main purpose is to quickly check for 100% duplicates.
