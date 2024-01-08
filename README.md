@@ -1,4 +1,4 @@
-# duplicate-file-finding-script
+# duplicate files finding script
 
 This script is designed to find any duplicate files in a large batch.
 
